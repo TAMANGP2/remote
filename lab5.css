@@ -10,13 +10,13 @@ p1{
     font-style: italic;
 }
 
-p2{
+.interests{
     font-size: 20px;
     font-style: italic;
     color: grey;
 
 }
-p3{
+.movies{
     font-size: 20px; 
     font-weight: bolder;
     color: grey
