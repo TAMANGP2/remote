@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+p1{
+    font-size: 21px;
+    font-style: italic;
+}
+
+.interests{
+    font-size: 20px;
+    font-style: italic;
+    color: grey;
+
+}
+.movies{
+    font-size: 20px; 
+    font-weight: bolder;
+    color: grey
+}
+
+h5{
+    font-size: 22px;
+    font-weight: bolder;
+    color: black;
+}
+.name{
+    font-size:25px;
+    color: brown;
+}
+.button{
+    color: blue;
+}
